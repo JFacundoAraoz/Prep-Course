@@ -246,6 +246,7 @@ function tablaDelSeis(){
               for (var i=0; i < 11; i++) {
 
                 array.push(i * 6);
+                
               }
 
                 return array;
